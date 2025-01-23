@@ -337,3 +337,14 @@
         "warning": true
     }
 ]
+ {
+     "name": "Velocity"
+     "pros":  [ "Free to use", 95% sUNC "[ 100% UNC]","Keyless"],
+     "neutral": ["decompiler ([currently disabled, but there is one]
+     "cons": ["Safety is not verified by voxlis.NET", "Not verified by voxlis.NET"],
+     "link": "https://loot-link.com/s?ffRUH754",
+     "buttonText": "FREE",
+     "lastEditedBy": "Dark",
+      "types": ["unc", "windows"],   
+    "lastEditedByImage": "assets/unverified.png",  
+     "warning": true
